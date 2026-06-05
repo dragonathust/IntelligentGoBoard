@@ -9,3 +9,6 @@ MCU采用STM32F103C6T6，监听对弈设备发来的指令，扫描传感器阵�
 五子棋引擎使用了Carbon/Pela AI算法，内存需求在4MB量级。
 围棋引擎使用了GnuGo，内存需求在64MB量级,要在十秒左右落子需要CortexA53及以上性能的CPU。
 计划增加对KataGo围棋引擎的支持(TODO)，基于PC和采用高通GPU的手机。
+## 联系方式
+微信号: dragonathust
+Email: 63487516@qq.com
